@@ -1,0 +1,28 @@
+name: cameronlittle
+favicon: null
+layout_spectrum: 0.8277074415236712
+typography_spectrum: 0.6283065881580114
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4027621017303318
+  lightness: 0.8587971203960478
+  saturation: 0.18764204299077392
+  rhythmicContrast: 0.33732429263181984
+purpose: []
